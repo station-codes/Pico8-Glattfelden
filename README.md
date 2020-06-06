@@ -2,4 +2,4 @@
 
 done for the 8-bit to infinity challenge nr. 6
 
-<img src="glattfelden_002.png">
+<img src="glattfelden.p8.png">
