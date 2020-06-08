@@ -1,0 +1,100 @@
+
+2020-06-08 05:53:37 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrriiirrii
+2020-06-08 05:55:20 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rr_________
+2020-06-08 05:56:03 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ 
+2020-06-08 05:56:20 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrii..rrrrrrr
+2020-06-08 06:00:30 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr_riirri.rrriiiiii
+2020-06-08 06:01:38 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrr
+2020-06-08 06:03:22 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rri.........
+2020-06-08 06:05:06 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rr
+2020-06-08 06:08:28 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ r.cc......cc
+2020-06-08 06:09:55 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ 
+2020-06-08 06:10:46 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrr_________rrr_________
+2020-06-08 06:12:53 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrri
+2020-06-08 06:16:24 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rr_r________r
+2020-06-08 07:44:32 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrrcci
+2020-06-08 07:45:14 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrrrrr_rrrrrrrrrr_rrrr_rr_rrrr__rrrr_rrrrr__rrr_________rrrrrrriiir_r________
+ _
+2020-06-08 07:50:55 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ 
+2020-06-08 07:52:34 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrrrrrrr__r_ci.........irrrrr_____rrr_________
+2020-06-08 07:54:28 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr__r_
+2020-06-08 07:54:56 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ 
+2020-06-08 07:56:28 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr_rrr__r___r_rr_________rrrrrr________
+2020-06-08 07:57:16 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rr
+2020-06-08 07:57:31 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr___r_________
+2020-06-08 08:00:09 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr________r
+2020-06-08 08:01:11 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrr_________rr_______
+2020-06-08 08:02:19 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrr_________r____
+2020-06-08 08:03:16 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr_______c.........
+2020-06-08 08:05:00 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr_rcc.....
+2020-06-08 08:05:40 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rriii..cc
+2020-06-08 08:06:11 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrr________rrrr________ic.....
+2020-06-08 08:07:52 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr_________r
+2020-06-08 08:09:34 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr_________i
+2020-06-08 08:10:45 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrr_________rrrrrrrrrrrrrrrrrrrrrrrr_rrr_____rrr____rrrrr__rr_rrrr_rrrrrr__r_rrr
+ rrrrrrrrr__rrrr______rrrr_____rrrrrrrrrrrrrrrrrrrrrrr_____rrrrrrr____rrrr___r_rr
+ rrrrr_r_rr_____
+2020-06-08 08:19:39 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rr_r_rrrr_rrrrr________rr_rrrrr_rr________rr_________
+2020-06-08 08:22:56 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrrrrrrrr__i
+2020-06-08 08:29:06 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrrrrr___icrrrrrrrrrrrrrrc.rrrrrrr____
+2020-06-08 08:31:14 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrrr______rc
+2020-06-08 08:32:52 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ risrrrrrr________r
+2020-06-08 08:34:13 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrr_______r_________rrrrrrrrr__ic
+2020-06-08 08:38:01 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrr__r_r_r__r
+2020-06-08 08:38:59 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrr__rrr_
+2020-06-08 08:46:56 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ ricccccccccrrrrrrc
+2020-06-08 08:48:06 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ 
+2020-06-08 08:49:39 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rircmggmmgggggggggggggggggggriii....
+2020-06-08 08:53:39 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrr
+2020-06-08 08:59:56 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrrr
+2020-06-08 09:12:15 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrrr
+2020-06-08 09:16:31 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrr_________
+2020-06-08 09:21:20 /Users/duchonic/Library/Application Support/pico-8/carts/glattfelden/glattfelden.p8
+ rrrcrrrrii.
